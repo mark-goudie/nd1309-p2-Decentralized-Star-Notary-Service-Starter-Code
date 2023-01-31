@@ -31,3 +31,7 @@ trash
 *.sublime-project
 *.sublime-workspace
 sftp-config.json
+
+.env
+.secret
+

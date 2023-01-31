@@ -23,7 +23,7 @@ Edit the truffle.config file to add settings to deploy your contract to the Goer
 
 # Helper Points:
 
-Command used to deploy to Rinkeby truffle migrate --reset --network rinkeby
+Command used to deploy to Rinkeby truffle migrate --reset --network rinkeby [Complete] - Goerli: truffle migrate --network goerli --reset
 You will need to have your Metamask’s seed and Infura setup.
 This was shown to you in detail in the lesson on Solidity, while creating ERC-20 tokens on Rinkeby.
 
