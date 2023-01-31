@@ -30,7 +30,7 @@ This was shown to you in detail in the lesson on Solidity, while creating ERC-20
 # Task 4
 
 Modify the front end of the DAPP to achieve the following:
-Lookup a star by ID using tokenIdToStarInfo() (you will have to add code for this in your index.html and index.js files)
+Lookup a star by ID using tokenIdToStarInfo() (you will have to add code for this in your index.html and index.js files) [Complete]
 
 # Project Submission Instructions:
 
